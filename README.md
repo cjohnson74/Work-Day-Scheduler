@@ -11,5 +11,3 @@ https://cjohnson74.github.io/Work-Day-Scheduler/
 <img width="1001" alt="Screen Shot 2021-10-02 at 12 13 42 PM" src="https://user-images.githubusercontent.com/52815609/135724529-a9c8b537-c3ba-4b5c-8f29-a10417b3138f.png">
 
 <img width="999" alt="Screen Shot 2021-10-02 at 12 15 25 PM" src="https://user-images.githubusercontent.com/52815609/135724530-730c6a30-a727-4380-b40c-1159ebd71bb6.png">
-
-<img width="998" alt="Screen Shot 2021-10-02 at 12 15 40 PM" src="https://user-images.githubusercontent.com/52815609/135724532-00432d96-41c5-4ce1-9c78-c3c56e8e9843.png">
