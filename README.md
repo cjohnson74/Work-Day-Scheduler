@@ -1,7 +1,7 @@
 # Word-Day-Scheduler
 A simple calendar application that allows a user to save events for each hour of the day. This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery. I used the Moment.js library to work with date and time. 
 
-##Save Your To-Dos
+## Save Your To-Dos
 When the user clicks the save button for that timeblock. The text for that event is saved in local storage, so when the user refreshes the page, the saved events persist.
 
 # Working Site Link:
